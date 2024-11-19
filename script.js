@@ -24,4 +24,5 @@ function attack() {
   }
 }
 
+
 button.addEventListener('click', runOnClick);
